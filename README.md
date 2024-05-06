@@ -14,3 +14,5 @@ of the detected thoracic disease with up to 80% confidence score with DICE. REDD
 to upload and receive a diagnosis without the reliance of internet connection and provides a portable solution for remote set- tings with the possibility
 of instantiating a Cyber-Physical System (CPS).
 <p>
+
+[![Watch the video](https://img.youtube.com/vi/tQOvzJ99674/maxresdefault.jpg)](https://youtu.be/tQOvzJ99674)
