@@ -15,4 +15,6 @@ to upload and receive a diagnosis without the reliance of internet connection an
 of instantiating a Cyber-Physical System (CPS).
 <p>
 
-[![Watch the video](https://img.youtube.com/vi/tQOvzJ99674/maxresdefault.jpg)](https://youtu.be/tQOvzJ99674)
+## Demo
+
+https://raw.githubusercontent.com/ayushsaklani/projectRedd/main/public/demo.mov
