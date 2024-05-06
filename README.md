@@ -3,7 +3,7 @@
 </h1>
 
 ![demo](https://raw.githubusercontent.com/ayushsaklani/projectRedd/main/public/demo.png)
-```text
+<p>
 Diagnosing thoracic diseases using medical imaging is a complex task that requires a deep understanding of anatomy, physiology, and pathology.
 While doctors and radiologists continue to hone their skills over years of study and practice, the prospect of developing a consistent and
 automated technique for disease analysis can be significantly beneficial to the healthcare world and make diagnosis less susceptible to error.
@@ -13,5 +13,4 @@ professionals to simply upload an im- age of chest x-ray scan via a Rasberry Pi4
 of the detected thoracic disease with up to 80% confidence score with DICE. REDD addresses the following limitations: Provides the ability for the doctor
 to upload and receive a diagnosis without the reliance of internet connection and provides a portable solution for remote set- tings with the possibility
 of instantiating a Cyber-Physical System (CPS).
-```
-
+<p>
