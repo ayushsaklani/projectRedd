@@ -17,4 +17,5 @@ of instantiating a Cyber-Physical System (CPS).
 
 ## Demo
 
-https://raw.githubusercontent.com/ayushsaklani/projectRedd/main/public/demo.mov
+https://github.com/ayushsaklani/projectRedd/assets/19391609/fc3cadb1-5328-4497-b364-77b2f798251c
+
